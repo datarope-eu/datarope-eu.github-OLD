@@ -1,5 +1,6 @@
 # datarope-eu.github.io
-GitHub Personal page for DataRope EU. Repos on NLP, AI, Linux, and some other stuff.
+GitHub personal page for DataRope EU. Repos on NLP, AI, Linux, and some other stuff.
+Built with Bootstrap and fontawesome icons.
 
-Have a look at our Project sites.
+Also have a look at our Project pages, made using the GitHub page generator.
 
